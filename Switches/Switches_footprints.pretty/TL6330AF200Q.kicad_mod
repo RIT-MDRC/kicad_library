@@ -1,0 +1,162 @@
+(footprint "TL6330AF200Q"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Tactile Switch SPST-NO Top Actuated Surface Mount")
+	(property "Reference" "REF**"
+		(at 1.9 -1.4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "902b93a2-71f5-4270-b21f-78aa5ecf7c2a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "TL6330AF200Q"
+		(at 2.4 -1.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a8ebaec-ebcf-410a-b914-4de45dfa4417")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL6330.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0de2b182-6320-4119-8884-c427e781f857")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Tactile Switch SPST-NO Top Actuated Surface Mount"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "62fd96cd-a2c3-48fc-8a53-1178160bc78f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.1 0.5)
+		(end -0.1 1.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "56eac121-3dc8-4607-8e08-72823b39ece3")
+	)
+	(fp_line
+		(start 1 -0.5)
+		(end 4 -0.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f8d03f1b-0c2a-47b6-ba23-458de1280286")
+	)
+	(fp_line
+		(start 1 2.1)
+		(end 4 2.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "78137141-2bd3-45a4-b9bf-e5fe49c3093a")
+	)
+	(fp_line
+		(start 5.1 0.5)
+		(end 5.1 1.1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "4211fc84-8b0e-4609-820d-bb699ca80986")
+	)
+	(fp_rect
+		(start -0.1 -0.6)
+		(end 5.1 2.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "f246c967-acbf-4922-bd2b-eaddcac74187")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.4 -3.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "912101f0-7cac-492f-8050-b1e59357c501")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at 0.45 0)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "003319d4-72f6-4b74-8f59-d669ff565737")
+	)
+	(pad "2" smd roundrect
+		(at 4.55 0)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "eb3ee111-abb7-4188-aed4-eb9642025961")
+	)
+	(pad "3" smd roundrect
+		(at 0.45 1.6)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "94b33c9c-e753-4383-8d12-12cbea1352d4")
+	)
+	(pad "4" smd roundrect
+		(at 4.55 1.6)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "6b175273-375b-4b66-bde1-edfa241aa12e")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/jackf/Downloads/TL6330AF200Q--3DModel-STEP-613395.STEP"
+		(offset
+			(xyz 2.5 -0.78 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,258 @@
+(footprint "615006138421"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -4.7 -7.7 0)
+		(layer "F.SilkS")
+		(uuid "e3e26caa-2049-4f13-a160-39f0b21cdb7a")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "615006138421"
+		(at 13.156 -4.093 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cb8c975b-3891-46de-bff9-da0a8b112a3c")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.we-online.com/components/products/datasheet/615006138421.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c0b11aa0-a4b5-4405-a2f4-ddc6b6ecae5d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Jack Modular Connector 6p6c (RJ11, RJ12, RJ14, RJ25) 90° Angle (Right) Unshielded Cat5"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af7d6404-dcf3-4d8d-85b5-1aeceeb821ee")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -6.2 -6.6)
+		(end 6.2 -6.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aa7488f0-7106-4fe8-b56d-32a2ea56c091")
+	)
+	(fp_line
+		(start -6.2 -1.3)
+		(end -6.2 -6.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2beb3d35-d845-4f6b-a611-6567dbc0282c")
+	)
+	(fp_line
+		(start -6.2 2.4)
+		(end -6.2 6.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fb43b572-bb36-4592-a6c8-2a38f0cf9687")
+	)
+	(fp_line
+		(start -6.2 6.6)
+		(end 6.2 6.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a85badfb-7dad-4f84-be35-f9b01498207b")
+	)
+	(fp_line
+		(start 6.2 -6.6)
+		(end 6.2 -1.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0772ce69-d6bc-4977-9b54-750409428298")
+	)
+	(fp_line
+		(start 6.2 6.6)
+		(end 6.2 2.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "68be8bdf-3958-4b97-a9ab-bec5588b58ad")
+	)
+	(fp_circle
+		(center 4 -4.3)
+		(end 4.1 -4.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8caadb2e-a4dc-4658-9d0f-3f317f985ed9")
+	)
+	(fp_poly
+		(pts
+			(xy 6.4 -6.8) (xy 6.4 -0.9) (xy 7.4 -0.9) (xy 7.4 1.9) (xy 6.4 1.9) (xy 6.4 6.8) (xy -6.4 6.8) (xy -6.4 1.9)
+			(xy -7.4 1.9) (xy -7.4 -0.9) (xy -6.4 -0.9) (xy -6.4 -6.8)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.CrtYd")
+		(uuid "b1d48b0f-b45d-4d42-a42b-64f15abcae5f")
+	)
+	(fp_line
+		(start -6.1 -6.5)
+		(end 6.1 -6.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b54d7296-2f05-469b-a5e6-4845900c8258")
+	)
+	(fp_line
+		(start -6.1 6.5)
+		(end -6.1 -6.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d533895c-8cfa-44e3-8d91-2caed26584a3")
+	)
+	(fp_line
+		(start 6.1 -6.5)
+		(end 6.1 6.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c9799808-01bd-4f54-b8d3-c76025b787bf")
+	)
+	(fp_line
+		(start 6.1 6.5)
+		(end -6.1 6.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "657c64d4-c23c-4a4d-b3cf-a2651b24bdca")
+	)
+	(pad "" np_thru_hole circle
+		(at -6 0.5)
+		(size 2.36 2.36)
+		(drill 2.36)
+		(layers "*.Cu" "*.Mask")
+		(uuid "5d9c7f64-1796-4bb5-bc10-617e7ac92af6")
+	)
+	(pad "" np_thru_hole circle
+		(at 6 0.5)
+		(size 2.36 2.36)
+		(drill 2.36)
+		(layers "*.Cu" "*.Mask")
+		(uuid "9a0b81ac-0fee-44f5-a828-eb55ec0b9745")
+	)
+	(pad "1" thru_hole circle
+		(at 2.55 -4.34)
+		(size 1.408 1.408)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "8f71df8a-c411-4612-9f53-3255def3536c")
+	)
+	(pad "2" thru_hole circle
+		(at 1.53 -1.8)
+		(size 1.408 1.408)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "75fa044a-da7e-4246-a76a-18866ce370ed")
+	)
+	(pad "3" thru_hole circle
+		(at 0.51 -4.34)
+		(size 1.408 1.408)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "26d7d99a-a4b2-419f-88f0-e25514ba7c5c")
+	)
+	(pad "4" thru_hole circle
+		(at -0.51 -1.8)
+		(size 1.408 1.408)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "98639bff-9838-40a7-bd44-1e86e84eb70b")
+	)
+	(pad "5" thru_hole circle
+		(at -1.53 -4.34)
+		(size 1.408 1.408)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "02ae6aaf-3280-431f-bb4d-bb7658ce5359")
+	)
+	(pad "6" thru_hole circle
+		(at -2.55 -1.8)
+		(size 1.408 1.408)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "766013fc-57b0-4629-8b13-2d6f6c4f0587")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/jackf/OneDrive/Documents/KiCad/3D_Models/615006138421.step"
+		(offset
+			(xyz 0 0 7.25)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

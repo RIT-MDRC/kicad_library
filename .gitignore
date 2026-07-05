@@ -1,0 +1,10 @@
+# KiCad backup and temporary files
+*.bak
+*~
+_autosave-*
+*.lk
+*.pback
+
+# OS files
+.DS_Store
+Thumbs.db
