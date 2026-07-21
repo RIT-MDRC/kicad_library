@@ -180,7 +180,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at 20.32 10.16 0)
+			(at 1.016 16.256 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -190,7 +190,7 @@
 			)
 		)
 		(property "Value" "LMR54410FDBVR"
-			(at 20.32 7.62 0)
+			(at 8.382 -2.032 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -257,56 +257,19 @@
 			)
 		)
 		(symbol "LMR54410FDBVR_0_1"
-			(polyline
-				(pts
-					(xy 7.62 5.08) (xy 7.62 -10.16)
-				)
+			(rectangle
+				(start 0 15.24)
+				(end 16.51 0)
 				(stroke
-					(width 0.127)
+					(width 0)
 					(type default)
 				)
 				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 -10.16) (xy 33.02 -10.16)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 33.02 5.08) (xy 7.62 5.08)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 33.02 -10.16) (xy 33.02 5.08)
-				)
-				(stroke
-					(width 0.127)
-					(type default)
-				)
-				(fill
-					(type none)
+					(type background)
 				)
 			)
 			(pin power_in line
-				(at 40.64 2.54 180)
+				(at 24.13 12.7 180)
 				(length 7.62)
 				(name "CB"
 					(effects
@@ -324,7 +287,7 @@
 				)
 			)
 			(pin power_out line
-				(at 0 -7.62 0)
+				(at -7.62 2.54 0)
 				(length 7.62)
 				(name "GND"
 					(effects
@@ -342,7 +305,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 40.64 -7.62 180)
+				(at 24.13 2.54 180)
 				(length 7.62)
 				(name "FB"
 					(effects
@@ -360,7 +323,7 @@
 				)
 			)
 			(pin unspecified line
-				(at 0 -2.54 0)
+				(at -7.62 7.62 0)
 				(length 7.62)
 				(name "EN"
 					(effects
@@ -378,7 +341,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 2.54 0)
+				(at -7.62 12.7 0)
 				(length 7.62)
 				(name "VIN"
 					(effects
@@ -396,7 +359,7 @@
 				)
 			)
 			(pin power_in line
-				(at 40.64 -2.54 180)
+				(at 24.13 7.62 180)
 				(length 7.62)
 				(name "SW"
 					(effects
