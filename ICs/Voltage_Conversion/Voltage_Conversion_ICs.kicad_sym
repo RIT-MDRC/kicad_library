@@ -211,6 +211,199 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "AP7366-W5-7"
+		(pin_names
+			(offset 0.254)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "U"
+			(at 32.258 26.416 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "AP7366-W5-7"
+			(at 32.258 23.876 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "ICs_footprints:SOT25_DIO"
+			(at 26.416 -14.478 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/products_inactive_data/AP7366.pdf"
+			(at 11.684 -17.272 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Description" "Linear Voltage Regulator IC Positive Adjustable 1 Output 600mA SOT-25"
+			(at 5.842 -24.384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_keywords" "AP7366-W5-7"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "ki_fp_filters" "SOT25_DIO SOT25_DIO-M SOT25_DIO-L"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "AP7366-W5-7_0_1"
+			(rectangle
+				(start 0 16.51)
+				(end 12.7 0)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin power_in line
+				(at -7.62 13.97 0)
+				(length 7.62)
+				(name "IN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at -7.62 2.54 0)
+				(length 7.62)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -7.62 6.35 0)
+				(length 7.62)
+				(name "EN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 20.32 2.54 180)
+				(length 7.62)
+				(name "ADJ"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(symbol "AP7366-W5-7_1_1"
+			(pin power_out line
+				(at 20.32 13.97 180)
+				(length 7.62)
+				(name "OUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "AZ431LANTR-G1"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -389,7 +582,7 @@
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
-			(at 1.016 16.256 0)
+			(at 1.27 27.178 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -467,7 +660,7 @@
 		)
 		(symbol "LMR54410FDBVR_0_1"
 			(rectangle
-				(start 0 15.24)
+				(start 0 25.4)
 				(end 16.51 0)
 				(stroke
 					(width 0)
@@ -478,7 +671,7 @@
 				)
 			)
 			(pin power_in line
-				(at 24.13 12.7 180)
+				(at 24.13 22.86 180)
 				(length 7.62)
 				(name "CB"
 					(effects
@@ -532,7 +725,7 @@
 				)
 			)
 			(pin unspecified line
-				(at -7.62 7.62 0)
+				(at -7.62 15.24 0)
 				(length 7.62)
 				(name "EN"
 					(effects
@@ -550,7 +743,7 @@
 				)
 			)
 			(pin power_in line
-				(at -7.62 12.7 0)
+				(at -7.62 22.86 0)
 				(length 7.62)
 				(name "VIN"
 					(effects
@@ -568,7 +761,7 @@
 				)
 			)
 			(pin power_in line
-				(at 24.13 7.62 180)
+				(at 24.13 13.97 180)
 				(length 7.62)
 				(name "SW"
 					(effects
