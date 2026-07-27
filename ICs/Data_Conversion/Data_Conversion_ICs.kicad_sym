@@ -362,24 +362,6 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at 17.78 -15.24 180)
-				(length 5.08)
-				(name "GND"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
 				(at 17.78 -10.16 180)
 				(length 5.08)
@@ -553,6 +535,26 @@
 					)
 				)
 				(number "20"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+		(symbol "74AHCT245PW,118_1_0"
+			(pin passive line
+				(at 17.78 -15.24 180)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "10"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -797,7 +799,7 @@
 					(type none)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at -7.62 2.54 0)
 				(length 7.62)
 				(name "GND"
@@ -1108,6 +1110,404 @@
 				)
 				(fill
 					(type background)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "TXB0104RGYR"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "U"
+			(at -12.7 21.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "TXB0104RGYR"
+			(at -12.7 -24.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "ICs_footprints:QFN50P350X350X100-15N"
+			(at 26.162 -29.972 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftxb0104"
+			(at 29.718 -40.894 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Voltage Level Translator Bidirectional 1 Circuit 4 Channel 100Mbps 14-VQFN (3.5x3.5)"
+			(at 20.32 -38.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PARTREV" "06/2011"
+			(at 37.846 -33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Texas Instruments"
+			(at 10.16 -35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.00mm"
+			(at 31.75 -34.544 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "IPC 7351B"
+			(at 22.098 -33.274 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(symbol "TXB0104RGYR_0_0"
+			(rectangle
+				(start -12.7 20.32)
+				(end 12.7 -22.86)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin power_in line
+				(at -17.78 17.78 0)
+				(length 5.08)
+				(name "VCCA"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 2.54 0)
+				(length 5.08)
+				(name "A1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 0 0)
+				(length 5.08)
+				(name "A2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 -2.54 0)
+				(length 5.08)
+				(name "A3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -17.78 -5.08 0)
+				(length 5.08)
+				(name "A4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at -17.78 -16.51 0)
+				(length 5.08)
+				(name "NC_6"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 -20.32 180)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -17.78 11.43 0)
+				(length 5.08)
+				(name "OE"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at -17.78 -20.32 0)
+				(length 5.08)
+				(name "NC_9"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 17.78 -5.08 180)
+				(length 5.08)
+				(name "B4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 17.78 -2.54 180)
+				(length 5.08)
+				(name "B3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 17.78 0 180)
+				(length 5.08)
+				(name "B2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 17.78 2.54 180)
+				(length 5.08)
+				(name "B1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 17.78 17.78 180)
+				(length 5.08)
+				(name "VCCB"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 17.78 -16.51 180)
+				(length 5.08)
+				(name "PAD"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
 				)
 			)
 		)
@@ -1491,24 +1891,6 @@
 					)
 				)
 			)
-			(pin power_in line
-				(at 17.78 -15.24 180)
-				(length 5.08)
-				(name "GND"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
 			(pin bidirectional line
 				(at 17.78 -10.16 180)
 				(length 5.08)
@@ -1664,6 +2046,26 @@
 					)
 				)
 				(number "20"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+		(symbol "TXB0108PWR_1_0"
+			(pin passive line
+				(at 17.78 -15.24 180)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "11"
 					(effects
 						(font
 							(size 1.016 1.016)

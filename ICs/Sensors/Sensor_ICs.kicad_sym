@@ -1085,7 +1085,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 11.43 -24.13 90)
 				(length 2.54)
 				(name "GND"
@@ -1103,7 +1103,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 13.97 -24.13 90)
 				(length 2.54)
 				(name "GND"
