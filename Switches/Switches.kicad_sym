@@ -39,7 +39,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://js.pdf"
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/littelfuse-c-k-slide-js-series-datasheet?assetguid=aba42b08-0d2c-423b-813d-a2faa5a3bb14"
 			(at 5.588 -6.858 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52,6 +52,17 @@
 		)
 		(property "Description" "Slide Switch DPDT Surface Mount, Right Angle"
 			(at 17.526 -9.144 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CKN10722CT-ND"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -10984,7 +10995,7 @@
 				(justify bottom)
 			)
 		)
-		(property "DigiKey_Part_Number" "2073-SWT0115-020025SSACT-ND"
+		(property "Digikey_PN" "2073-SWT0115-020025SSACT-ND"
 			(at 4.318 -22.606 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10996,7 +11007,7 @@
 				(justify bottom)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SWT0115-020025SSA/Global+Connector+Technology/view-part/?ref=snap"
+		(property "snap_eda" "https://www.snapeda.com/parts/SWT0115-020025SSA/Global+Connector+Technology/view-part/?ref=snap"
 			(at 2.032 -24.384 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11430,7 +11441,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "kicad-embed://TL6330.pdf"
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/Datasheets/TL6330.pdf"
 			(at 23.368 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11443,6 +11454,17 @@
 		)
 		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 32V"
 			(at 27.94 -7.62 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "EG5546CT-ND"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)

@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at -3.075 -7.385 0)
 		(layer "F.SilkS")
-		(uuid "940b5fec-3c0e-4a1f-bdbb-893a033b530b")
+		(uuid "dc717e88-d941-46f8-812a-0a9c9f9e1466")
 		(effects
 			(font
 				(size 1 1)
@@ -17,7 +17,7 @@
 	(property "Value" "IND_SRP1265A-5R6M"
 		(at 4.545 7.365 0)
 		(layer "F.Fab")
-		(uuid "05b6b91c-3fdf-4d4e-83dd-1052d95a803e")
+		(uuid "ab9decf9-111f-4a57-a017-4aadf84b32b2")
 		(effects
 			(font
 				(size 1 1)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "6f4cc5cc-8777-4a5c-9aa3-6ee13f82b144")
+		(uuid "cf27f050-00b5-479b-b876-d88161f6fa10")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,7 +40,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "3811f8d3-0a75-4c97-92da-56f084b5aabe")
+		(uuid "efb56870-38ac-46ec-8437-151d6afb6c85")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "7f07b1c4-2270-48d9-8dd8-55e6c68246d0")
+		(uuid "1b34ca78-15ee-45cb-a4fb-1486dd174954")
 	)
 	(fp_line
 		(start -6.75 -2.82)
@@ -67,7 +67,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "757528cc-d416-4238-99b8-032d47c343ed")
+		(uuid "8adf0dd8-d935-4b8d-800c-9dd46de21617")
 	)
 	(fp_line
 		(start -6.75 6.25)
@@ -77,7 +77,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "39a3a10a-3aa3-4c46-ad1d-77510544a6ab")
+		(uuid "14e54f7e-a860-4e49-8dff-57abe3b1fb38")
 	)
 	(fp_line
 		(start 6.75 -6.25)
@@ -87,7 +87,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "321e4300-19ff-4a9e-b920-974d233cda25")
+		(uuid "a31d511d-ca34-4451-a21c-8779ba84130b")
 	)
 	(fp_line
 		(start 6.75 6.25)
@@ -97,7 +97,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "425bbac7-d646-4efc-9c3a-4d3fb50badfd")
+		(uuid "1597b2ce-90e6-4554-9755-86d3d44c07b1")
 	)
 	(fp_line
 		(start 6.75 6.25)
@@ -107,7 +107,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "490c631d-537e-40c2-9c24-facbe6ca109d")
+		(uuid "5c3e72e7-1ce6-4291-85e9-c1a8c276671a")
 	)
 	(fp_line
 		(start -7.35 -6.5)
@@ -117,7 +117,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "ee12d8a9-314b-4ba0-8e63-3dc467596ee2")
+		(uuid "cab3923b-6aa4-4afc-83f0-3bdda0e5eeff")
 	)
 	(fp_line
 		(start -7.35 6.5)
@@ -127,7 +127,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "ad01606a-6346-4167-a5d2-668e6bad32e2")
+		(uuid "bf850cd1-24fa-468f-a679-673414794a27")
 	)
 	(fp_line
 		(start 7.35 -6.5)
@@ -137,7 +137,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "2dd77d2b-da73-4435-8184-a9bb21e62eda")
+		(uuid "d71b1170-5853-4219-ae46-c86f1b948012")
 	)
 	(fp_line
 		(start 7.35 6.5)
@@ -147,7 +147,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "4b29920d-2e65-45d0-9186-83922de12493")
+		(uuid "a8d8830c-eab3-4c4e-9bbd-11485b21f693")
 	)
 	(fp_line
 		(start -6.75 -6.25)
@@ -157,7 +157,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "356c10ea-3346-4682-ab30-ae8cb28119a3")
+		(uuid "94ef9c22-7a72-401d-8f4c-cc1c31090f1c")
 	)
 	(fp_line
 		(start -6.75 6.25)
@@ -167,7 +167,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "4b269ad6-6d83-4ab0-a7d5-cc56215cbb40")
+		(uuid "2666abcd-7fee-404f-ad05-3b3bdd8334da")
 	)
 	(fp_line
 		(start 6.75 -6.25)
@@ -177,7 +177,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "f7399247-4ceb-4b4e-9541-2e8c5bac8ddd")
+		(uuid "04dc3fc2-831e-4314-bd0d-32a58e7abc90")
 	)
 	(fp_line
 		(start 6.75 6.25)
@@ -187,24 +187,24 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "5a27a285-eb9a-4c46-8b2a-a0ff4629cf60")
+		(uuid "36a31439-a8fd-4fa1-a86f-695e7b8933a7")
 	)
 	(pad "1" smd rect
 		(at -5.55 0)
 		(size 3.1 5)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "605526a4-2c29-4c24-96c5-c4f6ec5c1987")
+		(uuid "f24d193b-4eeb-4db2-8480-e5df9b19e1b2")
 	)
 	(pad "2" smd rect
 		(at 5.55 0)
 		(size 3.1 5)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
-		(uuid "0cea22c5-c28b-4ab0-9138-bd21eedc2c6d")
+		(uuid "eb42314f-aa88-4d0f-a8d9-256aa663ca22")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/jfisher/Documents/Kicad_Library/3D_Models/SRP1265A series.stp"
+	(model "${KICAD_CUSTOM_LIB}/3D_Models/SRP1265A series.stp"
 		(offset
 			(xyz 0 -0.15 5)
 		)

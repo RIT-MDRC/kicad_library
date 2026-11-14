@@ -9,7 +9,7 @@
 		(at 2.975 0 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "8a93467a-886e-4da7-9dd1-bd6131d12481")
+		(uuid "08c0d847-1c90-4b04-839f-01237c7609ae")
 		(effects
 			(font
 				(size 1 1)
@@ -21,7 +21,7 @@
 		(at 0 1.16 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "aa17a022-b95a-4c71-be5c-968a5f027f7f")
+		(uuid "e9faa036-f800-4706-989b-1c35a6045f14")
 		(effects
 			(font
 				(size 1 1)
@@ -34,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "58f08595-0475-4bf2-a460-d910c80fc8e9")
+		(uuid "d7e19f4e-5198-4db1-8a76-7d9d4436bf7e")
 		(effects
 			(font
 				(size 1 1)
@@ -47,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "3556f9c1-26fe-4f7f-a86c-eef049adbd13")
+		(uuid "991cf204-d092-4402-b96f-8b4f86f8f670")
 		(effects
 			(font
 				(size 1 1)
@@ -66,7 +66,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "60f2af1d-79c4-4d10-ae3d-f05e0c1d584a")
+		(uuid "672f2a6a-70c6-48d0-810e-7c8e411c1ec9")
 	)
 	(fp_rect
 		(start -0.5 -0.25)
@@ -77,13 +77,13 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "3faf7dd5-a682-41f9-8f38-2947034226b0")
+		(uuid "003a3e54-3a40-4d33-976f-92be5aba4c66")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "1983ee63-3f28-46aa-86f6-e72c5e32156c")
+		(uuid "5ff29c36-55dd-43ca-9aee-d664aa7ca547")
 		(effects
 			(font
 				(size 1 1)
@@ -96,17 +96,17 @@
 		(size 0.56 0.62)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "3d119fc0-496a-432a-88de-7478da52d6ce")
+		(uuid "eb46cdfe-13ed-464f-9f39-4d16964d770a")
 	)
 	(pad "2" smd roundrect
 		(at 0.48 0)
 		(size 0.56 0.62)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "afa08869-a857-4181-b415-a4716aaba398")
+		(uuid "be6796c4-ce06-4878-a653-25a785db2da2")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/jfisher/Documents/Kicad_Library/3D_Models/CAP_0402.step"
+	(model "${KICAD_CUSTOM_LIB}/3D_Models/CAP_0402.step"
 		(offset
 			(xyz 0 0 0)
 		)

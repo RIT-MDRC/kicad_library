@@ -39,7 +39,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10F104ZB8NNNC_Spec.pdf?_gl=1*m8o4uo*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwnN3OBhA8EiwAfpTYej_3skJ7dqzGWxLMThjQpHV4--E1Dz0ofYqKVU7UHvjImUFe-YT6hRoC-PkQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLljewhStKRu3nXOmmtn4bmoCY"
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"
 			(at -19.812 -14.224 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50,7 +50,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 0.1UF 50V Y5V 0603"
+		(property "Description" "0.1 µF ±10% 50V Ceramic Capacitor X5R 0603 (1608 Metric)"
 			(at 16.002 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73,6 +73,17 @@
 		)
 		(property "Size" "0603"
 			(at -0.254 -20.828 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "C1608X5R1H104K080AA"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -185,7 +196,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL05B104KP5NNNC_Spec.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/5458/CL05B104KP5VPNC_Spec.pdf?_gl=1*1iynr4w*_up*MQ..*_gs*MQ..&gclid=CjwKCAiAqabXBhBUEiwAw_SQpZcywGCjSAj0LwIPl09phTpRYzPZKb_p3yRX7Iy2dHQWJMjRcU12YxoCcosQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLljMaFdaALOi-OErYD6szu1zw"
 			(at -19.812 -14.224 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -219,6 +230,17 @@
 		)
 		(property "Size" "0402"
 			(at -0.254 -20.828 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CL05B104KP5VPNC"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -331,7 +353,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/3584/CL10B105KP8NNNC_Spec.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1002_X7R_SMD"
 			(at -19.812 -14.224 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -365,6 +387,17 @@
 		)
 		(property "Size" "0603"
 			(at -0.254 -20.828 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "C0603C105K8RACTU"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -477,7 +510,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10F104ZB8NNNC_Spec.pdf?_gl=1*m8o4uo*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwnN3OBhA8EiwAfpTYej_3skJ7dqzGWxLMThjQpHV4--E1Dz0ofYqKVU7UHvjImUFe-YT6hRoC-https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/490_Chip_Multilayer_CAT2021_MLCC.pdf"
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1006_X5R_SMD"
 			(at -19.812 -14.224 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -511,6 +544,17 @@
 		)
 		(property "Size" "0603"
 			(at -0.254 -20.828 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "C0603C106M8PAC7411"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -586,7 +630,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "10uF_35V_1210"
+	(symbol "10uF_50V_1210"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -623,7 +667,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC_2512.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL32B106KBJNNNE_Spec.pdf?_gl=1*10mp3bu*_up*MQ..*_gs*MQ..&gclid=CjwKCAiAqabXBhBUEiwAw_SQpQe7gR_Ed7yAW2LY4Sw3Hc3uJb2kgqGNMWlgb_mD6kmEkF0Ghj2uKRoCiiwQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLlgsDoTFMDiqD9WjKBEUiRrLj"
 			(at -19.812 -14.224 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -634,7 +678,7 @@
 				)
 			)
 		)
-		(property "Description" "10 µF ±10% 35V Ceramic Capacitor X5R 1210 (3225 Metric)"
+		(property "Description" "10 µF ±10% 50V Ceramic Capacitor X7R 1210 (3225 Metric)"
 			(at 16.002 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -645,7 +689,7 @@
 				)
 			)
 		)
-		(property "Voltage" "35V"
+		(property "Voltage" "50V"
 			(at 3.048 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -666,7 +710,18 @@
 				)
 			)
 		)
-		(symbol "10uF_35V_1210_0_1"
+		(property "Digikey_PN" "CL32B106KBJNNNE"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "10uF_50V_1210_0_1"
 			(polyline
 				(pts
 					(xy -2.032 0.762) (xy 2.032 0.762)
@@ -692,7 +747,7 @@
 				)
 			)
 		)
-		(symbol "10uF_35V_1210_1_1"
+		(symbol "10uF_50V_1210_1_1"
 			(pin passive line
 				(at 0 3.81 270)
 				(length 2.794)
@@ -769,7 +824,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A225KP8NNNC_Spec.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/Chip_Multilayer_CAT2021_MLCC.pdf?_gl=1*ud0kxk*_up*MQ..*_gs*MQ..&gclid=CjwKCAiAqabXBhBUEiwAw_SQpcM5a5PybzyLv_tuKthvtMlGUff84RwBoKvhK9QtBzCbfEgRw96BGBoCUywQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLljMaFdaALOi-OErYD6szu1zw"
 			(at -19.812 -14.224 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -780,7 +835,7 @@
 				)
 			)
 		)
-		(property "Description" "2.2 µF ±10% 10V Ceramic Capacitor X5R 0603 (1608 Metric)"
+		(property "Description" "2.2 µF ±10% 10V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 16.002 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -803,6 +858,17 @@
 		)
 		(property "Size" "0603"
 			(at -0.254 -20.828 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "GRM188R71A225KE15J"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -915,7 +981,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8893/DataSheet_CL32A226MAJNNN_20260305.pdf?_gl=1*zr6iwh*_up*MQ..&gclid=Cj0KCQjwsMLSBhD9ARIsAIpUTDrQBvAKX5EdCw6C254cPCQCCRD_qbO5k94znoEzk_fm1RgvUZJQIGsaAp4jEALw_wcB&gclsrc=aw.ds&gbraid=0AAAAADrbLlgvKtMIcr0skleL8XNTJ9ZyS"
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf"
 			(at -19.812 -14.224 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -926,7 +992,7 @@
 				)
 			)
 		)
-		(property "Description" "22 µF ±20% 25V Ceramic Capacitor X5R 1210 (3225 Metric)"
+		(property "Description" "22 µF ±20% 25V Ceramic Capacitor X7R 1210 (3225 Metric)"
 			(at 16.002 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -949,6 +1015,17 @@
 		)
 		(property "Size" "1210"
 			(at -0.254 -20.828 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CGA6P3X7R1E226M250AB"
+			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
@@ -985,6 +1062,477 @@
 			)
 		)
 		(symbol "22uF_25V_1210_1_1"
+			(pin passive line
+				(at 0 3.81 270)
+				(length 2.794)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 2.794)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "33nF_50V_0402"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "C"
+			(at -5.842 3.048 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "33nF"
+			(at 3.81 2.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Passives_footprints:C_0402_1005Metric"
+			(at -3.81 -18.542 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/UPY-GPHC_X7R_6_3V-TO-250V"
+			(at -19.812 -14.224 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "0.033 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)"
+			(at 11.176 -11.938 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 3.048 -2.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "0402"
+			(at -0.254 -20.828 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CC0402KRX7R9BB333"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "33nF_50V_0402_0_1"
+			(polyline
+				(pts
+					(xy -2.032 0.762) (xy 2.032 0.762)
+				)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 -0.762) (xy 2.032 -0.762)
+				)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "33nF_50V_0402_1_1"
+			(pin passive line
+				(at 0 3.81 270)
+				(length 2.794)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 2.794)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "4.7uF_25V_0603"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "C"
+			(at -5.842 3.048 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 3.81 2.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at -3.81 -18.542 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/8942/Chip_Multilayer_CAT2021_MLCC.pdf?_gl=1*asb58n*_up*MQ..*_gs*MQ..&gclid=CjwKCAiAqabXBhBUEiwAw_SQpcM5a5PybzyLv_tuKthvtMlGUff84RwBoKvhK9QtBzCbfEgRw96BGBoCUywQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLljMaFdaALOi-OErYD6szu1zw"
+			(at -19.812 -14.224 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "4.7 µF ±10% 25V Ceramic Capacitor X5R 0603 (1608 Metric)"
+			(at 16.002 -6.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 3.048 -2.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "0603"
+			(at -0.254 -20.828 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "GRM188R61E475KE11D"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "4.7uF_25V_0603_0_1"
+			(polyline
+				(pts
+					(xy -2.032 0.762) (xy 2.032 0.762)
+				)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 -0.762) (xy 2.032 -0.762)
+				)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "4.7uF_25V_0603_1_1"
+			(pin passive line
+				(at 0 3.81 270)
+				(length 2.794)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -3.81 90)
+				(length 2.794)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "47nF_50V_0402"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "C"
+			(at -5.842 3.048 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47nF"
+			(at 3.81 2.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Passives_footprints:C_0402_1005Metric"
+			(at -3.81 -18.542 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf"
+			(at -19.812 -14.224 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "0.047 µF ±10% 50V Ceramic Capacitor X7R 0402 (1005 Metric)"
+			(at 11.176 -11.938 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "50V"
+			(at 3.048 -2.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Size" "0402"
+			(at -0.254 -20.828 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Digikey_PN" "CGA2B3X7R1H473K050BB"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "47nF_50V_0402_0_1"
+			(polyline
+				(pts
+					(xy -2.032 0.762) (xy 2.032 0.762)
+				)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.032 -0.762) (xy 2.032 -0.762)
+				)
+				(stroke
+					(width 0.508)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "47nF_50V_0402_1_1"
 			(pin passive line
 				(at 0 3.81 270)
 				(length 2.794)

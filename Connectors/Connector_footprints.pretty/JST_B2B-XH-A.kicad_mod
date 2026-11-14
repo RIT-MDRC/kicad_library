@@ -6,7 +6,7 @@
 	(property "Reference" "REF**"
 		(at -0.775 -4.76 0)
 		(layer "F.SilkS")
-		(uuid "5069da78-0e40-47f7-9c65-5e787b69aaa4")
+		(uuid "b8549202-d35e-4208-9ae2-f33d3da67ebc")
 		(effects
 			(font
 				(size 1 1)
@@ -17,7 +17,7 @@
 	(property "Value" "JST_B2B-XH-A"
 		(at 3.67 4.76 0)
 		(layer "F.Fab")
-		(uuid "05b5620a-aa48-4ba1-9d24-b85cf13d0308")
+		(uuid "e8ba6433-4ee4-4a29-bd68-11cc80ccd39e")
 		(effects
 			(font
 				(size 1 1)
@@ -29,7 +29,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "11aeb97b-3532-4d92-a432-6f2219354bbe")
+		(uuid "71c1e5da-2efa-433e-9d1a-9b8633437839")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -40,7 +40,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "3c5fd67e-eb72-442d-b086-bbb701e59aec")
+		(uuid "5823a5be-dc11-465e-9478-7f4ee616a838")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "f4026194-60b9-408b-989c-97f9c22abaf0")
+		(uuid "70b5682a-38f6-42ed-8b44-2bc1b1f0a205")
 	)
 	(fp_line
 		(start -3.7 2.875)
@@ -67,7 +67,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "d3f2b5ec-2ecb-4c19-89b8-42251f2c5b13")
+		(uuid "df7575ef-e115-498f-8803-d31019657ae6")
 	)
 	(fp_line
 		(start 3.7 -2.875)
@@ -77,7 +77,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "ef17d936-0f92-494f-a301-bc624f6fe0bd")
+		(uuid "6cbf68ad-0667-4409-a105-714b4b0d616b")
 	)
 	(fp_line
 		(start 3.7 2.875)
@@ -87,7 +87,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "b7060ad9-5c7e-4191-bcfa-bb0c2a5e7b17")
+		(uuid "e715890e-79c5-466e-99aa-f147c6f273cc")
 	)
 	(fp_circle
 		(center 4.44 0.525)
@@ -98,7 +98,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "48032c91-caa9-43fa-8aaa-d57b697b2fcd")
+		(uuid "5e21a095-4dbd-47bb-bf42-fc745d68018f")
 	)
 	(fp_line
 		(start -3.95 -3.125)
@@ -108,7 +108,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "55c4a428-127b-40ff-8a42-024d61855282")
+		(uuid "0f3e2519-57d2-4180-acbd-91273690545f")
 	)
 	(fp_line
 		(start -3.95 3.125)
@@ -118,7 +118,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "f8b280ba-b1ca-492d-a6dd-dc8cb3700645")
+		(uuid "9562d889-e982-469e-b2d6-3c7e664f9314")
 	)
 	(fp_line
 		(start 3.95 -3.125)
@@ -128,7 +128,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "4a9055c4-a41a-4453-8a51-0cb9343e5ac4")
+		(uuid "8c79b3f6-0b95-411f-ab6a-b913c14b95e1")
 	)
 	(fp_line
 		(start 3.95 3.125)
@@ -138,7 +138,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "db7ffc41-8e90-421c-b412-e9e588cc6e38")
+		(uuid "11830dce-02e7-4c26-92ae-5aa3bb0a83de")
 	)
 	(fp_line
 		(start -3.7 -2.875)
@@ -148,7 +148,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "3cc3f3aa-cf3b-41ec-9cfd-33d059d367e4")
+		(uuid "1d282e46-669c-4e4c-9f6d-a51719f75e12")
 	)
 	(fp_line
 		(start -3.7 2.875)
@@ -158,7 +158,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "77930f25-bd8b-47a0-b814-8c4ff8dff185")
+		(uuid "190c847b-9f9b-46f3-9ca4-812a1510b00d")
 	)
 	(fp_line
 		(start 3.7 -2.875)
@@ -168,7 +168,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "2f90fa48-2f6e-4b53-9d7a-a3319e1ac110")
+		(uuid "f003735e-7059-4fd2-bda4-c74709afe44f")
 	)
 	(fp_line
 		(start 3.7 2.875)
@@ -178,7 +178,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "8a8c4814-d548-4182-8b55-dc7f5c302a7c")
+		(uuid "3705695c-de0e-4c59-bd85-c03c4f52bf24")
 	)
 	(fp_circle
 		(center 4.44 0.525)
@@ -189,7 +189,7 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "3ba923b7-9acd-433f-a4df-86a762195081")
+		(uuid "c75f8922-fa76-4214-9bb6-584d564a8650")
 	)
 	(pad "1" thru_hole rect
 		(at 1.25 0.525)
@@ -198,7 +198,7 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
-		(uuid "a0551739-c070-4c6d-8467-e2f48e60558a")
+		(uuid "9baa2fd1-6c48-4097-b5c4-14c8a9f39619")
 	)
 	(pad "2" thru_hole circle
 		(at -1.25 0.525)
@@ -207,10 +207,10 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
-		(uuid "3c48769e-2a89-4745-a01a-f31c69017809")
+		(uuid "d660ec24-a6d5-4c22-847d-3ddb6672a104")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/jackf/OneDrive/Documents/KiCad/Git Lib/Kicad_Lib/3D_Models/B2B-XH-A.step"
+	(model "${KICAD_CUSTOM_LIB}/3D_Models/B2B-XH-A.step"
 		(offset
 			(xyz 0 0 0)
 		)
